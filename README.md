@@ -73,6 +73,7 @@
 - See output on ThingSpeak channel feild
      
 ## Circuit Diagram
+![Circuit Diagram](./
 
 
 
